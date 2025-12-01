@@ -1,0 +1,11 @@
+[package]
+name = "aoc25"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "day1"
+test = false
+bench = false
+
+[dependencies]
